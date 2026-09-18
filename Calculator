@@ -1,21 +1,45 @@
-print("Welcome to Zac's Calculator")
+rint("Welcome to Zac's Calculator")
 print("Select amount of numbers\n")
 
 choice_num = int(input("Choose 2, 3, 4 or 5: "))
 
-if choice num == 2:
-	print("\n\nSelect action")
+if choice num = 2:
+	num_1 = float(input("Enter first number"))
 	
-elif choice num == 2:
-	print("\n\nSelect action")
-	
+	num_2 = float(input("Enter second number"))
 
-elif choice num == 2:
-	print("\n\nSelect action")
+elif choice num == 3:
+	num_1 = float(input("Enter first number"))
 	
+	num_2 = float(input("Enter second number"))
+    
+	num_3 = float(input("Enter third number"))
 
-elif choice num == 2:
-	print("\n\nSelect action")
+elif choice num == 4:
+	num_1 = float(input("Enter first number"))
+	
+	num_2 = float(input("Enter second number"))
+    
+	num_3 = float(input("Enter third number"))
+	
+	num_4 = float(input("Enter fourth number"))
+
+elif choice num == 5:
+    num_1 = float(input("Enter first number"))
+	
+	num_2 = float(input("Enter second number"))
+    
+	num_3 = float(input("Enter third number"))
+	
+	num_4 = float(input("Enter fourth number"))
+	
+	num_5 = float(input("Enter fifth number"))
 	
 else:
-	print("\n\nPlease pick 2, 3, 4 or 5")))
+	print("\n\nPlease pick 2, 3, 4 or 5")
+
+	
+choice_action = input("Choose + - * /:")
+
+if choice_action == "+":
+	print
