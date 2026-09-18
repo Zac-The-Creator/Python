@@ -1,0 +1,4 @@
+print("Welcome to Zac's Calculator")
+print("Select amount of numbers\n")
+
+choice_num = int(input("Choose 2, 3, 4 or 5: "))
