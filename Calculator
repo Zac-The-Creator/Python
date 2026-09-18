@@ -2,3 +2,20 @@ print("Welcome to Zac's Calculator")
 print("Select amount of numbers\n")
 
 choice_num = int(input("Choose 2, 3, 4 or 5: "))
+
+if choice num == 2:
+	print("\n\nSelect action")
+	
+elif choice num == 2:
+	print("\n\nSelect action")
+	
+
+elif choice num == 2:
+	print("\n\nSelect action")
+	
+
+elif choice num == 2:
+	print("\n\nSelect action")
+	
+else:
+	print("\n\nPlease pick 2, 3, 4 or 5")))
